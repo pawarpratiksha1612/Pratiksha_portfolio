@@ -293,7 +293,7 @@ box-shadow: 1px 10px 10px aqua;
 
 .card-title{
 	color: blueviolet;
-	margin-left: 100px;
+/*	margin-left: px;*/
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 25px;
 	font-weight: bolder;
@@ -333,6 +333,7 @@ box-shadow: 1px 10px 10px aqua;
 }
 .imggg{
 	overflow: hidden;
+	
 }
 .card-img-top{
 	
